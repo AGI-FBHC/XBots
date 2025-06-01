@@ -83,7 +83,7 @@ pip install -r requirements.txt
 在项目根目录下创建 .env 文件，并添加以下配置信息，其余项不用管：
 
 ```bash
-DEEPSEEK_API_KEY=你的API_Key
+DEEPSEEK_API_KEY=你的API_KEY
 DB_HOST=你的主机名
 DB_NAME=数据库名
 DB_USER=数据库用户名
