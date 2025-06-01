@@ -68,7 +68,7 @@ Python 3.9 及以上版本
 1、**克隆项目**
 
 ```bash
-git clone https://github.com/SuanXiangJi/XBots
+git clone https://github.com/AGI-FBHC/XBots
 cd XBots
 ```
 
