@@ -2,8 +2,9 @@ streamlit
 sqlalchemy
 pymysql
 werkzeug
-flask
-flask_mail
 langchain_openai
 pydantic
 python-dotenv
+browser-use
+pyjwt
+playwright
