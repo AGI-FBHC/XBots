@@ -5,6 +5,6 @@ werkzeug
 langchain_openai
 pydantic
 python-dotenv
-browser-use
 pyjwt
-playwright
+browser_use
+extra_streamlit_components
