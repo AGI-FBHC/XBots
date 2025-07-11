@@ -1,11 +1,7 @@
 <h1 align="center">
 XBots通用智能体
 </h1>
-<p align="center">
-<img src="https://img.shields.io/badge/OS-Windows11-blue" />
-<img src="https://img.shields.io/badge/Python-11-red" />
-<img src="https://img.shields.io/badge/Build-Success-green" /> 
-</p>
+
 
 <p align="center">
 <img src="readme.assets/fig_XBot.png" width=80%/> <br>
@@ -21,6 +17,12 @@ XBots通用智能体
 
 
 ## 项目概述
+
+<p align="center">
+<img src="https://img.shields.io/badge/OS-Windows11-blue" />
+<img src="https://img.shields.io/badge/Python-11-red" />
+<img src="https://img.shields.io/badge/Build-Success-green" /> 
+</p>
 
 XBots通用智能体是一个具备自动化网页操作能力的智能系统，在基本对话的基础上，通过DeepSeek对用户命令进行决策，可借助浏览器执行多样化的任务。该系统集成了日志管理、对话评估等功能，能依据用户需求精准执行任务，并输出用户预期结果。
 
