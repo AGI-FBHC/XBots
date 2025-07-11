@@ -1,7 +1,3 @@
-<h1 align="center">
-XBots通用智能体
-</h1>
-
 
 
 ## 相关荣誉
@@ -10,6 +6,10 @@ XBots通用智能体
 <p align="center">
 <img src="readme.assets/certificate.jpg" width=32%/> <br>
 </p>
+
+<h1 align="center">
+XBots通用智能体
+</h1>
 
 
 ## 项目概述
