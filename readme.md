@@ -12,6 +12,14 @@ XBots通用智能体
 <b>Figure 1</b>. Structure of XBots.
 </p>
 
+## 相关荣誉
+2025江苏生成式人工智能创新大赛三等奖
+
+<p align="center">
+<img src="readme.assets/certificate.jpg" width=75%/> <br>
+</p>
+
+
 ## 项目概述
 
 XBots通用智能体是一个具备自动化网页操作能力的智能系统，在基本对话的基础上，通过DeepSeek对用户命令进行决策，可借助浏览器执行多样化的任务。该系统集成了日志管理、对话评估等功能，能依据用户需求精准执行任务，并输出用户预期结果。
@@ -186,8 +194,4 @@ API决策中：
 
 因此，在“智能回复”模式下，用户的命令会通过AI决策，响应更合适的操作。
 
-## 其他
 
-以下为相关荣誉。
-
-![1748803442068](readme.assets/certificate.jpg)
