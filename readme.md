@@ -3,7 +3,7 @@ XBots通用智能体
 </h1>
 <p align="center">
 <img src="https://img.shields.io/badge/OS-Windows11-blue" />
-<img src="https://img.shields.io/badge/Python-10-red" />
+<img src="https://img.shields.io/badge/Python-11-red" />
 <img src="https://img.shields.io/badge/Build-Success-green" /> 
 </p>
 
