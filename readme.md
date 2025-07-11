@@ -190,4 +190,4 @@ API决策中：
 
 以下为相关荣誉。
 
-![1748803442068](readme.assets/certificate.png)
+![1748803442068](readme.assets/certificate.jpg)
