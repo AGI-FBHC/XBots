@@ -1,4 +1,12 @@
 
+<h1 align="center">
+XBots通用智能体
+</h1>
+<p align="center">
+<img src="https://img.shields.io/badge/OS-Windows11-blue" />
+<img src="https://img.shields.io/badge/Python-11-red" />
+<img src="https://img.shields.io/badge/Build-Success-green" /> 
+</p>
 
 ## 相关荣誉
 2025江苏生成式人工智能创新大赛三等奖
@@ -7,18 +15,11 @@
 <img src="readme.assets/certificate.jpg" width=32%/> <br>
 </p>
 
-<h1 align="center">
-XBots通用智能体
-</h1>
 
 
 ## 项目概述
 
-<p align="center">
-<img src="https://img.shields.io/badge/OS-Windows11-blue" />
-<img src="https://img.shields.io/badge/Python-11-red" />
-<img src="https://img.shields.io/badge/Build-Success-green" /> 
-</p>
+
 
 <p align="center">
 <img src="readme.assets/fig_XBot.png" width=80%/> <br>
