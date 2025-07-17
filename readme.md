@@ -13,6 +13,7 @@ XBots通用智能体
 
 <p align="center">
 <img src="readme.assets/certificate.jpg" width=32%/> <br>
+<img src="readme.assets/certificate2.png" width=32%/> <br>
 </p>
 
 
