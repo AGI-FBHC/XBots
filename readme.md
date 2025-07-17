@@ -12,7 +12,7 @@ XBots通用智能体
 2025江苏生成式人工智能创新大赛三等奖
 
 <p align="center">
-<img src="readme.assets/certificate.jpg" width=37%/>
+<img src="readme.assets/certificate.jpg" width=34%/>
 <img src="readme.assets/certificate2.png" width=32%/> <br>
 </p>
 
